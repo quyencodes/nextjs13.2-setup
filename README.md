@@ -44,10 +44,10 @@ Setup with me Next.js v13.2 with TypeScript, Prettier, and ESLint.
    ```
 
 2. On installation you should see the following prompts:\
-   Would you like to use ESLint with this project? No / <a>Yes</a>\
-   Would you like to use `src/` directory with this project? <a>No</a> / Yes\
-   Would you like to use experimental `app/` directory with this project? <a>No</a> / Yes\
-   What import alias would you like configured? <a>@</a> / \*
+   Would you like to use ESLint with this project? No / <a href="https://github.com/quyencodes/nextjs13.2-setup">Yes</a>\
+   Would you like to use `src/` directory with this project? <a href="https://github.com/quyencodes/nextjs13.2-setup">No</a> / Yes\
+   Would you like to use experimental `app/` directory with this project? <a href="https://github.com/quyencodes/nextjs13.2-setup">No</a> / Yes\
+   What import alias would you like configured? <a href="https://github.com/quyencodes/nextjs13.2-setup">@</a> / \*
 
    ```bash
    $ cd project-orbis/
