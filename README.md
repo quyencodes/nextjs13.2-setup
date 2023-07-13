@@ -44,10 +44,10 @@ Setup with me Next.js v13.2 with TypeScript, Prettier, and ESLint.
    ```
 
 2. On installation you should see the following prompts:\
-   Would you like to use ESLint with this project? No / <span style="color:green">Yes</span>\
-   Would you like to use `src/` directory with this project? <span style="color:green">No</span> / Yes\
-   Would you like to use experimental `app/` directory with this project? <span style="color:green">No</span> / Yes\
-   What import alias would you like configured? <span style="color:green">@</span> / \*
+   Would you like to use ESLint with this project? No / <a>Yes</a>\
+   Would you like to use `src/` directory with this project? <a>No</a> / Yes\
+   Would you like to use experimental `app/` directory with this project? <a>No</a> / Yes\
+   What import alias would you like configured? <a>@</a> / \*
 
    ```bash
    $ cd project-orbis/
@@ -76,9 +76,9 @@ Setup with me Next.js v13.2 with TypeScript, Prettier, and ESLint.
    const inter = Inter({ subsets: ['latin'] })
    ```
 
-   2. Navigate into `styles/Home.module.css` and remove the entire file
-   3. In `globals.css` remove all the existing lines of code
-   4. <b>(CHECKPOINT)</b> When you navigate to `localhost:3000` it should be a completely white page with text "New Project"
+   1. Navigate into `styles/Home.module.css` and remove the entire file
+   2. In `globals.css` remove all the existing lines of code
+   3. <b>(CHECKPOINT)</b> When you navigate to `localhost:3000` it should be a completely white page with text "New Project"
 
 5. Now we will be using <a href="https://tailwindcss.com/docs/guides/nextjs">Tailwind CSS - Next.js framework guide </a> to install Tailwind CSS to our project
 
