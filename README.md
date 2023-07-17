@@ -137,10 +137,10 @@ Setup with me Next.js v13.2 with TypeScript, Prettier, and ESLint.
 
 9. Add a `components` folder to your root directory and start developing
 
-10. For prettier, add a `.prettierrc` file <a href="" target="_blank">here</a> and run the command:
+10. For prettier AND prettier with tailwindcss, add a `.prettierrc` file, feel free to copy the one <a href="https://github.com/quyencodes/nextjs13.2-setup/blob/main/.prettierrc" target="_blank">here</a> and run the command:
 
 ```bash
-$ npm i -D prettier eslint-plugin-prettier eslint-config-prettier
+$ npm install -D prettier prettier-plugin-tailwindcss
 ```
 
 11. Now you can add existing code that lives on your local device up to GitHub via this <a href="https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github" target="_blank">article</a>
